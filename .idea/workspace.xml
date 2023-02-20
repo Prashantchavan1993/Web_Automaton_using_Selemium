@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18bf05da-cea2-469f-a0b2-c795ba710cb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FlipkartBuyProductTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="18bf05da-cea2-469f-a0b2-c795ba710cb9" name="Changes" comment="Flipkart assignment&#10;&#10;done the steps for buying product, like&#10;1 search the product&#10;2 select the product&#10;3 click on the product &#10;4 add to cart that product&#10;5 buy that product with providing mobile no." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676868665858</updated>
     </task>
+    <task id="LOCAL-00001" summary="Flipkart assignment&#10;&#10;done the steps for buying product, like&#10;1 search the product&#10;2 select the product&#10;3 click on the product &#10;4 add to cart that product&#10;5 buy that product with providing mobile no.">
+      <created>1676871646684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676871646684</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Flipkart assignment&#10;&#10;done the steps for buying product, like&#10;1 search the product&#10;2 select the product&#10;3 click on the product &#10;4 add to cart that product&#10;5 buy that product with providing mobile no." />
+    <option name="LAST_COMMIT_MESSAGE" value="Flipkart assignment&#10;&#10;done the steps for buying product, like&#10;1 search the product&#10;2 select the product&#10;3 click on the product &#10;4 add to cart that product&#10;5 buy that product with providing mobile no." />
   </component>
 </project>
