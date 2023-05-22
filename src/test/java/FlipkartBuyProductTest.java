@@ -7,7 +7,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 
-
+import java.time.Duration;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
@@ -28,7 +28,7 @@ public class FlipkartBuyProductTest {
         driver.findElement(By.xpath("//button[@class='_2KpZ6l _2doB4z']")).click();
         driver.findElement(By.xpath("//input[@title='Search for products, brands and more']")).sendKeys("ipad");
 
-        WebDriverWait wait = new WebDriverWait(driver, TimeUnit.SECONDS.toSeconds(10));
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//li[@class='Y5N33s']//div/a")));
 
         Actions act = new Actions(driver);
